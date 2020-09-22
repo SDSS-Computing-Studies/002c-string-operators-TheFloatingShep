@@ -2,4 +2,4 @@
 
 x = 5
 y = "donut"
-print(str(x) + y)
+print(x * y)
